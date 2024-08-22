@@ -20,3 +20,5 @@ Tentativa de fazer um software de adição, remoção, busca e execução de mú
 A música é uma forma de arte que se constitui na combinação de vários sons e ritmos, seguindo uma pré-organização ao longo do tempo. 
 É considerado por diversos autores como uma prática cultural e humana. 
 Não se conhece nenhuma civilização ou agrupamento que não possua manifestações musicais próprias.
+
+### Colaborador Maarhs
